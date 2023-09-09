@@ -1,0 +1,23 @@
+.button {
+  position: relative;
+  font-size: var(--text-large-size);
+  line-height: 24px;
+  font-family: var(--text-small);
+  color: var(--accent);
+  text-align: center;
+}
+.sizelargeStylestrokeShap {
+  cursor: pointer;
+  border: 1px solid var(--accent);
+  padding: var(--padding-sm) var(--padding-9xl);
+  background-color: transparent;
+  border-radius: var(--br-7xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.sizelargeStylestrokeShap:hover {
+  background-color: var(--color-gainsboro-100);
+}
