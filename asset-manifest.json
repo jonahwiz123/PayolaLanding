@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/PayolaLanding/static/css/main.0ddbc357.css",
-    "main.js": "/PayolaLanding/static/js/main.0444fd73.js",
-    "static/js/787.6c648396.chunk.js": "/PayolaLanding/static/js/787.6c648396.chunk.js",
+    "main.css": "/PayolaLanding/static/css/main.4b0ded79.css",
+    "main.js": "/PayolaLanding/static/js/main.3adc2c3f.js",
     "index.html": "/PayolaLanding/index.html",
-    "main.0ddbc357.css.map": "/PayolaLanding/static/css/main.0ddbc357.css.map",
-    "main.0444fd73.js.map": "/PayolaLanding/static/js/main.0444fd73.js.map",
-    "787.6c648396.chunk.js.map": "/PayolaLanding/static/js/787.6c648396.chunk.js.map"
+    "main.4b0ded79.css.map": "/PayolaLanding/static/css/main.4b0ded79.css.map",
+    "main.3adc2c3f.js.map": "/PayolaLanding/static/js/main.3adc2c3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ddbc357.css",
-    "static/js/main.0444fd73.js"
+    "static/css/main.4b0ded79.css",
+    "static/js/main.3adc2c3f.js"
   ]
 }
